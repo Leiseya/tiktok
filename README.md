@@ -1,5 +1,5 @@
 # tiktok
 
-[21.0](itms-services://?action=download-manifest&url=https://cxkun.com/cdn/jiesuotk/Tiktok/d1.plist)
-[21.0](https://cxkun.com/cdn/jiesuotk/Tiktok/d1.plist)
-This is an [example link](http://example.com/ "With a Title").
+[21.0](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Leiseya/tiktok/main/tiktok-21.0.plist)
+[21.0](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Leiseya/tiktok/main/tiktok-31.0.plist)
+
